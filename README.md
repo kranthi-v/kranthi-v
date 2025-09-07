@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there!👋 <br>
-I'm **V Kranthi Kumar** Recent 2025 Electronics & Communication Engineering graduate, passionate about tech field solve real-world data and development challenges and continuously learning.<br>
+I'm **V Kranthi Kumar** Recent 2025 Electronics & Communication Engineering graduate, passionate about tech field solve real-world data and continuously learning.<br>
 # Skills & Technologies<br>
 **Programming Language** - Python(Loops, Functions, OOPS)<br>
 **Database** - Oracle SQL (Relational queries, normalization, data modeling)<br>
