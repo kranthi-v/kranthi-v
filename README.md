@@ -5,7 +5,7 @@ I'm **V Kranthi Kumar** Recent 2025 Electronics & Communication Engineering grad
 **Programming Language** - Python(Loops, Functions, OOPS)<br>
 **Database** - Oracle SQL (Relational queries, normalization, data modeling)<br>
 # My Current learning <br>
-**Python Fullstack** - Django ,RestAPIs<br>
+**Python Fullstack** - Django ,FastAPIs<br>
 **Web Development** - HTML,CSS, Javascript,Boostrap<br>
 
 
