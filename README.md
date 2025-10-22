@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 🎓About Me:
 I’m a 2025 graduate in Electronics and Communication Engineering from Annamacharya Institute of Technology and Sciences, Rajampet, with a strong foundation in both frontend and backend development. My technical skills includes Oracle SQL, Python, HTML, CSS and Bootstrap.I'm passionate about building clean, efficient, and user-friendly web applications. Whether it's designing responsive web interfaces or writing optimized database queries, I enjoy solving problems and learning new technologies that push the boundaries of what I can create.Currently exploring opportunities in software development, data analytics, and web technologies. I’m eager to contribute to dynamic teams, grow professionally, and make meaningful impact through code.<br>Let’s connect and build something great together!
 # Skills & Expertise:
 Programming Language: Python<br>Database: Oracle SQL<br>Web Development: HTML, CSS, Javascript, Bootstrap<br>Version Control: Git, GitHub
